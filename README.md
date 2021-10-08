@@ -5,7 +5,7 @@ IT Convergence and Application Engineering at Pukyong National University
 Student researcher at PKNU AI Lab  
 4-Engineering Building AI Lab 314/365, Sinseon-ro, Nam-gu, Busan, Republic of Korea  
   
-- CV : https://github.com/deschanel11/deschanel11/blob/main/%EB%B0%95%EA%B7%9C%EB%B9%88%20CV.docx  
+- CV : [My CV](https://github.com/deschanel11/deschanel11/blob/main/%EB%B0%95%EA%B7%9C%EB%B9%88%20CV.docx)  
 - 📫 How to reach me: lizpark811@gmail.com
 
 
