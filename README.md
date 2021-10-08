@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Gyubin Park
+Gyubin Park  
 IT Convergence and Application Engineering at Pukyong National University  
 Student researcher at PKNU AI Lab  
 4-Engineering Building AI Lab 314/365, Sinseon-ro, Nam-gu, Busan, Republic of Korea  
